@@ -6,5 +6,5 @@
 - 🔭 만든 것: 음성 AI 비서 "이디", 3D 웹 월드, 레벨업 기록장
 - 🛠 Python · JavaScript · HTML/CSS · Three.js
 - 🎳 볼링(최고 212점), 헬스, 기타
-- 🌐 포트폴리오: https://jinhyun0519-create.github.io/portfolio
+- 🌐 포트폴리오: https://jinhyun0519-create.github.io
 - 📫 jinhyun0519@hufs.ac.kr
